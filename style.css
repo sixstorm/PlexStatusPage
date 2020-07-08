@@ -1,0 +1,43 @@
+h1 {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 80px;
+	text-align: center;
+	color: #e6e6e6;
+	text-shadow: 2px 2px #222222;
+}
+
+body {
+	background: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	height: 100%;
+}
+
+#tempStatusMSG {
+	font-family: 'Poppins', sans-serif;
+	font-size: 22px;
+	text-align: center;
+	color: #851e3e;
+	visibility: visible;
+}
+
+#plexStatusText {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color: #e6e6e6;
+	visibility: hidden;
+	text-shadow: 2px 2px #222222;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: #2a363b;
+	text-align: center;
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 22px;
+}
